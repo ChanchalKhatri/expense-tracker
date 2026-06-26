@@ -2,7 +2,7 @@
 
 A modern, beautiful expense tracking application built with React, Vite, and TailwindCSS. Track, manage, and organize your daily expenses with ease.
 
-![Preview](public/preview.png)
+![Preview](public/output.png)
 
 ## Features
 
